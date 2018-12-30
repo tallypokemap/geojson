@@ -3,7 +3,15 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.1,
+        "name": "Tallahassee",
+        "sub_area": "false"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -423,6 +431,45 @@
             [
               -84.3065071105957,
               30.57393752895688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.1,
+        "name": "Gainesville",
+        "sub_area": "false"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.53959655761719,
+              29.49280400490176
+            ],
+            [
+              -82.12417602539062,
+              29.49280400490176
+            ],
+            [
+              -82.12417602539062,
+              29.825752664242177
+            ],
+            [
+              -82.53959655761719,
+              29.825752664242177
+            ],
+            [
+              -82.53959655761719,
+              29.49280400490176
             ]
           ]
         ]
